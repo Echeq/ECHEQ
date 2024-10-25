@@ -13,4 +13,4 @@ const elvis = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Echeq)
+⭐️ From [@Echeq](https://github.com/Echeq)
