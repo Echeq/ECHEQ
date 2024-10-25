@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2> Hey, I'm Elvis Chen! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBsZGRmazU0M3A0MXZlcDIwNzBrOGs5dDFuc3picTlibHhwMzVubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nhw1FwkchB2cIozD12/giphy.webp" width="50"></h2>
 
-<!--
-**Echeq/ECHEQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const elvis = {
+  nationality: "panamanian",
+  code: [C, C++, Golang, Rust, Python, Java],
+  languages: [Spanish, English, Chinese],
+ challenge: "Learning a something new everyday"
+}
+```
 
-Here are some ideas to get you started:
+<em><b>If my repos helped you, please follow and share with your friends! </b></em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ From [@Thaiane](https://github.com/Echeq)
