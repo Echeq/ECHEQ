@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Human Languages:  Fluent in Spanish, English, and Chinese.<br>📚 Book Recommendation:  The Algorithm Design Manual  by Steven S. Skiena – A must-read for anyone passionate about algorithms and problem-solving!<br>🎯 Goals:  I love breaking down complexity into simple modules. My ultimate goal is to design a big menu system that allows me to generate software efficiently.<br>🎲 Fun Fact:  I don’t think in words—I think in images. This unique way of processing ideas helps me approach problems creatively.<br><br>📍 Currently studying Computer Science at Huazhong University of Science and Technology</p>
+<p align="left">✨ Human Languages:  Fluent in Spanish, English, and Chinese.<br>📚 Book Recommendation:  The Algorithm Design Manual  by Steven S. Skiena – A must-read for anyone passionate about algorithms and problem-solving!<br>🎯 Goals:  I love breaking down complexity into simple modules. My ultimate goal is to design a big menu system that allows me to generate software efficiently.<br>🎲 Fun Fact:  I don’t think in words—I think in images. This unique way of processing ideas helps me approach problems creatively.<br><br>📍 Currently studying Software Engineering at Huazhong University of Science and Technology</p>
 
 ###
 
