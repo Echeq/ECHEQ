@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 ! I'm Elvis Chen! 👨🏻‍💻</h1>
+<h1 align="left">Hey 👋 ! I'm Echeq! 👨🏻‍💻</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Elvis Enrique Chen Qiu, and I’m from Panama. I enjoy coding and optimizing processes! <br>I’m always available to collaborate on team projects!</p>
+<p align="left">My name is Echeq, and I’m from Panama. I enjoy coding and optimizing processes! <br>I’m always available to collaborate on team projects!</p>
 
 ###
 
