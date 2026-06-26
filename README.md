@@ -1,55 +1,35 @@
-<h1 align="left">Hey 👋 ! I'm Echeq! 👨🏻‍💻</h1>
 
-###
 
-<p align="left">My name is Echeq, and I’m from Panama. I enjoy coding and optimizing processes! <br>I’m always available to collaborate on team projects!</p>
+---
 
-###
+<p align="center">
+  <b>陈昌发</b> · <b>Elvis E. Chen Qiu</b> · <b><code>Echeq</code></b>
+  <br>
+  🇵🇦 → 🇨🇳 · <i>from Herrera, Chitré, to Wuhan</i>
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+> *"Who does not live to serve, does not serve to live."* — Mother Teresa
 
-<p align="left">✨ Human Languages:  Fluent in Spanish, English, and Chinese.<br>📚 Book Recommendation:  The Algorithm Design Manual  by Steven S. Skiena – A must-read for anyone passionate about algorithms and problem-solving!<br>🎯 Goals:  I love breaking down complexity into simple modules. My ultimate goal is to design a big menu system that allows me to generate software efficiently.<br>🎲 Fun Fact:  I don’t think in words—I think in images. This unique way of processing ideas helps me approach problems creatively.<br>📍 Currently in China.</p>
+Started from zero at 18. Everything I know I learned after.
 
-###
+I come from the countryside of Panama, live in China, and speak **Spanish, English, French, and Chinese** (Chinese took me a year). I don't think in words — I think in images. I like solving things I haven't solved before.
 
-<h2 align="left">Code in</h2>
+In my first year of university I worked on an AI project with **Horizon Robotics**. I was so into cybersecurity that I ended up diving headfirst into software engineering.
 
-###
+Today my obsession is **Cloud**: serverless, automation, and optimizing services so they stop breaking on their own.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+Ask me about **C# and .NET** and I'll tell you something always breaks. And that I'll try anyway.
 
-###
+---
 
-<h2 align="left">Learning</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echeq/Echeq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echeq/Echeq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Echeq/Echeq/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <a href="https://linkedin.com/in/Echeq">
+    <img src="https://img.shields.io/badge/LinkedIn-Echeq-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Languages-4-64748B?style=flat" alt="Languages">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud-Serverless-FF6F00?style=flat&logo=cloudflare" alt="Cloud">
+</p>
