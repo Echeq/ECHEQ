@@ -33,3 +33,5 @@ Ask me about **C# and .NET** and I'll tell you something always breaks. And that
   &nbsp;
   <img src="https://img.shields.io/badge/Cloud-Serverless-FF6F00?style=flat&logo=cloudflare" alt="Cloud">
 </p>
+
+My Opencode REF: https://opencode.ai/go?ref=F99H7MPA2S
